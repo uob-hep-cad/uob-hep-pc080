@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "library") (type "KiCad") (uri "C:/Users/phdgc/Downloads/uob-hep-pc080/hardware/KiCAD/library.pretty") (options "") (descr ""))
+	(lib (name "AMPHENOL_FFC") (type "KiCad") (uri "${KIPRJMOD}/AMPHENOL_FFC.pretty") (options "") (descr ""))
+	(lib (name "AMPHENOL_FFC") (type "KiCad") (uri "${KIPRJMOD}/AMPHENOL_FFC.pretty") (options "") (descr ""))
+)
